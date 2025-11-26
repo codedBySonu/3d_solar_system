@@ -53,6 +53,21 @@ The solar system is represented in a 3D environment where each planet rotates an
 ## 📦 Required Libraries
 
 Install required libraries before running:
+1. pygame
+
+Used for creating the window and handling input/events.
+
+2. PyOpenGL
+
+Used for rendering 3D graphics with OpenGL.
+
+3. numpy
+
+Used for mathematical calculations (rotation, positions, matrices, etc.)
+
+4. math (Built-in)
+
+Already comes with Python, no need to install.
 
 
 ---
