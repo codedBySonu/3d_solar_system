@@ -1,4 +1,4 @@
-# 🌌 3D Solar System Simulation
+
 
 A visually interactive 3D Solar System simulation created using Python.
 This project displays the Sun and all planets with realistic textures and basic orbital motion.
