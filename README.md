@@ -122,14 +122,7 @@ Planned improvements for future versions:
 
 ---
 
-## 👨‍💻 Author
 
-**Sonu Kumar Singh**  
-GitHub: https://github.com/codedBySonu
-
----
-
-## ⭐ If you like this project
 
 Give it a star ⭐ on GitHub to support my work and motivate future updates!
 
