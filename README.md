@@ -126,6 +126,13 @@ Planned improvements for future versions:
 
 Give it a star ⭐ on GitHub to support my work and motivate future updates!
 
+## 👨‍💻 Author
 
+**Sonu Kumar Singh**  
+GitHub: https://github.com/codedBySonu
+
+---
+
+## ⭐ If you like this project
 
 
